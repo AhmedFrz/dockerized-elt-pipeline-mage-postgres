@@ -63,3 +63,9 @@ environment:
 ---
 
 **⚠️ Security**: Never commit `.env` or database credentials!
+
+
+
+## How Mage AI Pipeline looks like 
+
+![Mage Pipeline](./assets/mage_pipeline.png)
