@@ -8,7 +8,7 @@ services:
       - "5432:5432"
     environment:
       POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: kaggle
+      POSTGRES_DB: wine
     restart: on-failure
     networks:
       - elt-network             # postgres joins this network
